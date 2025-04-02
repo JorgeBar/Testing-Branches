@@ -24,6 +24,13 @@ git add .
 git commit -m
 ```
 
+### Movimiento entre ramas
+
+```
+git checkout rama1
+git checkout main
+```
+
 Y esto se añadirán en github a commits de nuestra nueva rama.
 
 ## Hemos realizado los cambios y queremos fusionarlos al original
